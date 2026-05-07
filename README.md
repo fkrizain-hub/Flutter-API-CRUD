@@ -1,4 +1,4 @@
-# infoku_app
+# Flutter API CRUD APP
 
 A new Flutter project.
 
